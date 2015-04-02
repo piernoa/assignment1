@@ -6,3 +6,4 @@
 
 ## Programming Background
 * working on a software application for the pet care industry
+* working on a mobile app to facilitate donations to cancer
